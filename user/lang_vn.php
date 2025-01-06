@@ -1,0 +1,28 @@
+<?php
+return [
+    'welcome' => 'Chào mừng đến với',
+    'hotel' => 'KHÁCH SẠN',
+    'about_us' => 'Giới thiệu',
+    'accommodation' => 'Chỗ ở',
+    'menu' => 'Thực đơn',
+    'tour_travel' => 'Du lịch',
+    'service' => 'Dịch vụ',
+    'news' => 'Tin tức',
+    'gallery' => 'Thư viện',
+    'contact' => 'Liên hệ',
+    'book_room' => 'Đặt phòng',
+    'login' => 'Đăng nhập',
+    'logout' => 'Đăng xuất',
+    'hello' => 'Xin chào, ',
+    'read_more' => 'Đọc thêm',
+    'double_room' => 'Phòng Đôi',
+    'triple_room' => 'Phòng Ba',
+    'dorm_room' => 'Phòng Ký Túc',
+    'travel_1' => 'Bích Động Phát Diệm - Nhà Thờ Phát Diệm',
+    'travel_2' => 'Điểm Du Lịch 2',
+    'travel_3' => 'Điểm Du Lịch 3',
+    'travel_4' => 'Điểm Du Lịch 4',
+    'travel_5' => 'Điểm Du Lịch 5',
+    'travel_6' => 'Điểm Du Lịch 6',
+];
+?>
